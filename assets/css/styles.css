@@ -61,6 +61,7 @@ a {
     position: relative;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .navbar {
@@ -104,7 +105,7 @@ a {
 
 /* Hero  */
 .hero {
-    margin-top: 130px;
+    /* margin-top: 130px; */
 }
 .hero .info {
     width: 51%;
